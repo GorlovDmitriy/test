@@ -5,9 +5,9 @@ import (
 )
 
 const (
-	ApplePrice = 5.99
-	PearPrice  = 7.
-	HaveMoney  = 23.0
+	ApplePrice = 5.99 //Цена одного яблока
+	PearPrice  = 7.   //Цена одной груши
+	HaveMoney  = 23.0 //Имеем денег
 )
 
 func main() {
